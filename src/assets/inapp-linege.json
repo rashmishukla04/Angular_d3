@@ -1,0 +1,165 @@
+{
+  "message": [
+    {
+      "csiId": 167878,
+      "applicationName": "GFTS O2",
+      "criteriaUId": "24796aa8-62a5-4570-ad1e-5c7848a2ebb5",
+      "applicationUId": "da724ea6-e799-11ea-88c3-005056871d0d",
+      "applicationType": "",
+      "applicationCategory": "Application",
+      "applicationDescription": "Reg-W established terms for transactions between banks and their affiliates and ensure: 1. Credit extended to an affiliate bank must be secured.2. Transactions with any one affiliate total no more than 10 Percentage of an institution’s capital. and 3. Transactions to all affiliates total no more than 20Percentage of an institution's capital. It also ensures Filing two forms with Federal Reserve: 23A: Relations with affiliates 23B: Restrictions on Transactions with Affiliates",
+      "outBoundEntities": []
+    },
+    {
+      "csiId": 168555,
+      "applicationName": "REL SAS2",
+      "criteriaUId": "24796aa8-62a5-4570-ad1e-5c7848a2ebb5",
+      "applicationUId": "da7122ca-e799-11ea-8e0a-005056871d0d",
+      "applicationType": "",
+      "applicationCategory": "Application Module",
+      "applicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+      "outBoundEntities": [
+        {
+          "associatedApplicationName": "REL SAS1",
+          "associatedApplicationUId": "da71ae74-e799-11ea-ad2a-005056871d0d",
+          "associatedApplicationType": "",
+          "associatedApplicationCategory": "Application Module",
+          "associatedApplicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+          "associatedInterfaceUId": "4cf81c71-8e47-4974-9e93-49b4947c05fe",
+          "associatedInterfaceName": "REL SAS1 Interface",
+          "associatedInterfacePosition": 1,
+          "interfaceUId": "e6c81d87-d8aa-4786-a4b0-4ca5088812e3",
+          "interfaceName": "REL SAS2 Interface",
+          "interfacePosition": 1,
+          "linkUId": "49465908-a139-4fa5-a09a-fd5906f2f3d3"
+        }
+      ]
+    },
+    {
+      "csiId": 168555,
+      "applicationName": "REL SAS6",
+      "criteriaUId": "24796aa8-62a5-4570-ad1e-5c7848a2ebb5",
+      "applicationUId": "da6f2fd2-e799-11ea-90eb-005056871d0d",
+      "applicationType": "",
+      "applicationCategory": "Application Module",
+      "applicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+      "outBoundEntities": [
+        {
+          "associatedApplicationName": "REL SAS5",
+          "associatedApplicationUId": "da6fa75a-e799-11ea-83d4-005056871d0d",
+          "associatedApplicationType": "",
+          "associatedApplicationCategory": "Application Module",
+          "associatedApplicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+          "associatedInterfaceUId": "3679e690-b563-4665-9695-2e321a266250",
+          "associatedInterfaceName": "REL SAS5 Interface",
+          "associatedInterfacePosition": 1,
+          "interfaceUId": "b2547af1-bf75-4407-b609-cd51290dad10",
+          "interfaceName": "REL SAS6 Interface",
+          "interfacePosition": 1,
+          "linkUId": "4fd37890-1b15-470c-b7ef-2659cb416743"
+        }
+      ]
+    },
+    {
+      "csiId": 168555,
+      "applicationName": "REL SAS5",
+      "criteriaUId": "24796aa8-62a5-4570-ad1e-5c7848a2ebb5",
+      "applicationUId": "da6fa75a-e799-11ea-83d4-005056871d0d",
+      "applicationType": "",
+      "applicationCategory": "Application Module",
+      "applicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+      "outBoundEntities": [
+        {
+          "associatedApplicationName": "REL SAS4",
+          "associatedApplicationUId": "da701edc-e799-11ea-a1b0-005056871d0d",
+          "associatedApplicationType": "",
+          "associatedApplicationCategory": "Application Module",
+          "associatedApplicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+          "associatedInterfaceUId": "be4cbfa9-eb2a-45a7-addd-6139d735f2be",
+          "associatedInterfaceName": "REL SAS4 Interface",
+          "associatedInterfacePosition": 1,
+          "interfaceUId": "2a889b9a-8c22-411f-803e-a429b3852093",
+          "interfaceName": "REL SAS5 Interface",
+          "interfacePosition": 1,
+          "linkUId": "5692a8da-92d1-47aa-a360-59685a7b711f"
+        }
+      ]
+    },
+    {
+      "csiId": 168555,
+      "applicationName": "REL SAS4",
+      "criteriaUId": "24796aa8-62a5-4570-ad1e-5c7848a2ebb5",
+      "applicationUId": "da701edc-e799-11ea-a1b0-005056871d0d",
+      "applicationType": "",
+      "applicationCategory": "Application Module",
+      "applicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+      "outBoundEntities": [
+        {
+          "associatedApplicationName": "REL SAS3",
+          "associatedApplicationUId": "da70aa7a-e799-11ea-8953-005056871d0d",
+          "associatedApplicationType": "",
+          "associatedApplicationCategory": "Application Module",
+          "associatedApplicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+          "associatedInterfaceUId": "aa803684-8623-4db8-a028-5690c1ce29d8",
+          "associatedInterfaceName": "REL SAS3 Interface",
+          "associatedInterfacePosition": 1,
+          "interfaceUId": "7d4415de-3429-4eb3-bf5d-87864fddbbf3",
+          "interfaceName": "REL SAS4 Interface",
+          "interfacePosition": 1,
+          "linkUId": "38fd51cc-9152-4a24-9a97-215ab05b906a"
+        }
+      ]
+    },
+    {
+      "csiId": 168555,
+      "applicationName": "REL SAS1",
+      "criteriaUId": "24796aa8-62a5-4570-ad1e-5c7848a2ebb5",
+      "applicationUId": "da71ae74-e799-11ea-ad2a-005056871d0d",
+      "applicationType": "",
+      "applicationCategory": "Application Module",
+      "applicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+      "outBoundEntities": [
+        {
+          "associatedApplicationName": "GFTS O2",
+          "associatedApplicationUId": "da724ea6-e799-11ea-88c3-005056871d0d",
+          "associatedApplicationType": "",
+          "associatedApplicationCategory": "Application",
+          "associatedApplicationDescription": "Reg-W established terms for transactions between banks and their affiliates and ensure: 1. Credit extended to an affiliate bank must be secured.2. Transactions with any one affiliate total no more than 10 Percentage of an institution’s capital. and 3. Transactions to all affiliates total no more than 20Percentage of an institution's capital. It also ensures Filing two forms with Federal Reserve: 23A: Relations with affiliates 23B: Restrictions on Transactions with Affiliates",
+          "associatedInterfaceUId": "65f41f14-4181-4b4e-92ec-02b6eb2da8e6",
+          "associatedInterfaceName": "GFTS O2 Interface",
+          "associatedInterfacePosition": 1,
+          "interfaceUId": "39a77b93-608b-4b3b-b039-21a21ab637df",
+          "interfaceName": "REL SAS1 Interface",
+          "interfacePosition": 1,
+          "linkUId": "82340faa-91d5-47b6-a6cb-c0328cd3b6de"
+        }
+      ]
+    },
+    {
+      "csiId": 168555,
+      "applicationName": "REL SAS3",
+      "criteriaUId": "24796aa8-62a5-4570-ad1e-5c7848a2ebb5",
+      "applicationUId": "da70aa7a-e799-11ea-8953-005056871d0d",
+      "applicationType": "",
+      "applicationCategory": "Application Module",
+      "applicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+      "outBoundEntities": [
+        {
+          "associatedApplicationName": "REL SAS2",
+          "associatedApplicationUId": "da7122ca-e799-11ea-8e0a-005056871d0d",
+          "associatedApplicationType": "",
+          "associatedApplicationCategory": "Application Module",
+          "associatedApplicationDescription": "The Consumer Analytics Grid provides an enhanced SAS platform for grid-enabled analytics computing. The appliance supports SAS analytics and various other non-SAS applications for use by all NA internal clients. Appliance hardware and SAS Software are managed by the vendor, SAS, in conjunction GCT resources supporting non-SAS software and users. CTI will provide space, network, power and \"hands and eyes\" support within the Southwest Data Center (Prod) and Midwest Data Center (COB/Dev/QA).",
+          "associatedInterfaceUId": "88557670-2808-4783-9412-69061a1af80a",
+          "associatedInterfaceName": "REL SAS2 Interface",
+          "associatedInterfacePosition": 1,
+          "interfaceUId": "5f5cc549-bf75-49b4-a2ca-3bedc5e7f96c",
+          "interfaceName": "REL SAS3 Interface",
+          "interfacePosition": 1,
+          "linkUId": "bc675b0e-4a30-4ac3-b01c-97f3afe126a0"
+        }
+      ]
+    }
+  ],
+  "fault": {}
+}

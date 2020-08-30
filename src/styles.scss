@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+$footer-color: rgba(51,51,51,0.8);
+$dla-font-family: Arial,sans-serif;
+
+@mixin  tablet {
+    @media(min-width:1024px) and (max-width: 1279px){
+        @content;
+    }
+}
+@mixin desktop {
+     @media(min-width:1280px) and (max-width: 1366px){
+        @content;
+    }
+}
+@mixin desktop-lg {
+    @media(min-width:1440px) and (max-width: 1920px){
+        @content;
+    }
+}
